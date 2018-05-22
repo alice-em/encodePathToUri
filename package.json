@@ -1,0 +1,23 @@
+{
+  "name": "encodepathtouri",
+  "version": "0.1.0",
+  "description": "An NPM package to encode local paths to a URI path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alice-em/encodePathToUri.git"
+  },
+  "keywords": [
+    "URI",
+    "Path"
+  ],
+  "author": "Alice Maldonado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alice-em/encodePathToUri/issues"
+  },
+  "homepage": "https://github.com/alice-em/encodePathToUri#readme"
+}
