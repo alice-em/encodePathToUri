@@ -24,7 +24,4 @@ const encodePathToUri = (filepath) => {
   }
 };
 
-// export default encodePathToUri;
-
-const n = encodePathToUri('/home/user/caffiend/How to brew coffee.pdf');
-console.log(n);
+export default encodePathToUri;

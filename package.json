@@ -1,5 +1,5 @@
 {
-  "name": "encodepathtouri",
+  "name": "encode-path-to-uri",
   "version": "0.1.0",
   "description": "An NPM package to encode local paths to a URI path",
   "main": "index.js",
